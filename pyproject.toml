@@ -1,0 +1,23 @@
+[project]
+name = "simple_cv2_wrapper_Noizrom"
+version = "0.1.0"
+authors = [
+  { name="Noizrom" },
+]
+description = "A very simple wrapper for cv2 for usual stuff"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: MIT License",
+    "Operating System :: Windows",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Noizrom/Simple-cv2-wrapper"
+
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
