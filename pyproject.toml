@@ -1,5 +1,5 @@
 [project]
-name = "simple_cv2_wrapper_Noizrom"
+name = "simple_cv2_wrapper"
 version = "0.1.0"
 authors = [
   { name="Noizrom" },
@@ -10,8 +10,13 @@ license = { file="LICENSE" }
 requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: MIT License",
-    "Operating System :: Windows",
+    "License :: OSI Approved :: MIT License",
+    "Development Status :: 3 - Alpha",
+    "Operating System :: Microsoft :: Windows :: Windows 10",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Multimedia :: Video :: Capture",
+    "Topic :: Scientific/Engineering :: Image Processing",
+    "Topic :: Utilities"
 ]
 
 [project.urls]
