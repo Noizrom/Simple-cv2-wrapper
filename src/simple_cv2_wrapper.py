@@ -1,5 +1,4 @@
 import cv2
-import imutils
 import numpy
 from typing import Any, Iterator
 
